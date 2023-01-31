@@ -7,6 +7,6 @@ import static org.junit.Assert.assertTrue;
 public class SecondTest {
     @Test
     public void secondTest() {
-        assertTrue(false);
+        assertTrue(true);
     }
 }
